@@ -1,0 +1,9 @@
+*
+!*.*
+!/**/
+**.so
+!Makefile
+build
+src/orig
+legacy
+feature-test/
